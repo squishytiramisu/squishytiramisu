@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @squishytiramisu
+- 👋 Hi, I’m @squishytiramisu (陈 林)
 - 👀 I’m interested in Machine Learning, Blockchain, Finance, Music and Software Development.
 - 🌱 I’m currently learning Databases, Java, Signal Analysis.
 - 💞️ I’m looking to collaborate on Machine Learning or something interesting...
