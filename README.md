@@ -2,7 +2,7 @@
 - Research for utility?
 
 
-![SquishyTiramisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=squishytiramisu&count_private=true)
+![SquishyTiramisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=squishytiramisu&count_private=true&theme=tokyonight)
 
 <!---
 squishytiramisu/squishytiramisu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
